@@ -123,7 +123,7 @@ def main():
     for player, score in final_scores:
         print(player + ": " + str(score))  
 
-    winner = max(scores, key=scores.get)
+    winner = max(scores, key=scores.get) 
     print("\nCongratulations " + winner + "! You win the game.")
 
 
