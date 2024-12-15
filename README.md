@@ -78,6 +78,5 @@ The game maintains a `high_scores.json` file that records the highest score achi
 ## Code Structure
 
 - **`tuple_out.py`:** The main game script that handles the game logic and player interactions.
-- **`utils.py`:** Contains utility functions for saving and loading high scores.
 - **`high_scores.json`:** JSON file that stores high scores for each player.
 - **`README.md`:** This readme file with instructions and information about the game.
