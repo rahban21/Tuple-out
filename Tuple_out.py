@@ -94,7 +94,6 @@ def play_turn(player, scores, target_score):
         print(player + " ends their turn with " + str(total_points) + " points.")
         return total_points
 
-def main():
     print("Welcome to the Tuple Out Dice Game!")
 
     # Parse command-line arguments for target score
