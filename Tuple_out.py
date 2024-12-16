@@ -127,6 +127,3 @@ def main():
                 game_in_progress = False
                 break
             player_index += 1
-
-if __name__ == "__main__":
-    main()
